@@ -1,1 +1,1 @@
-worker: java -jar target/Kassino.jar
+worker: java -jar Kassino.jar
