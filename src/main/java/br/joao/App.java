@@ -13,6 +13,7 @@ import net.dv8tion.jda.api.utils.cache.CacheFlag;
 
 public class App extends ListenerAdapter {
     public static void main(String[] args) throws LoginException {
+        System.out.println("hello");
         String botToken = System.getenv("TOKEN_DISCORD");
         JDA jda = JDABuilder.createDefault(botToken, GatewayIntent.GUILD_MESSAGES)
                 .disableCache(CacheFlag.CLIENT_STATUS, CacheFlag.ACTIVITY, CacheFlag.EMOTE, CacheFlag.VOICE_STATE)

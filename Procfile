@@ -1,1 +1,1 @@
-worker: java -jar target/Kassino-1.0-SNAPSHOT.jar
+worker: java -jar target/Kassino.jar
