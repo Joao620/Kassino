@@ -1,0 +1,1 @@
+Se você estiver chego aqui, por favor, não leia nenhuma linha de codigo, eu não me orgulho de nada disso.

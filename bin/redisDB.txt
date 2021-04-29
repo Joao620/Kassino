@@ -1,0 +1,9 @@
+vai conter uma lista chamada 'ordem_jogadas', que sera usada pra quando a DB encher, as primeiras jogadas a serem retiradas serão as do final
+
+e o conteudo da mesas seram armazenadas com a chave 'usr:id', e o conteudo sendo CSV
+
+como vai ser serializado o 21
+
+21,jogando(1|0),dobrar(1|0),baralhoJogador,baralhoDealer
+
+(inicia cm 21 que eh o nome do jogo)
